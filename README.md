@@ -48,4 +48,4 @@ Show which listed AMCs earn the best returns and margins, how consistent that ha
 Excel (formulas, conditional formatting, charts), Screener.in data
 
 ## Author
-Satyam Arora | [LinkedIn]([https://www.linkedin.com/in/satyam-arora-b83a3648])
+Satyam Arora | [LinkedIn Profile](https://www.linkedin.com/in/satyam-arora-b83a3648)
